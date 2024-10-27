@@ -2,4 +2,4 @@
 
 ## Demo
 
-https://zabduziz.github.io/data-country-visualization/
+https://zabduziz.github.io/data-continent-visualization/
